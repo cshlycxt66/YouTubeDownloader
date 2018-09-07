@@ -1,0 +1,10 @@
+油管视频下载：
+
+
+1.http://www.clipconverter.cc/
+
+2.android端下载
+http://www.vidmate.com/
+
+3.python爬虫（已编译打包exe,mac端没水果机没法编译，懂计算机自行下载源码，配置环境下载）
+
